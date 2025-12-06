@@ -15,9 +15,10 @@ Menyelesaikan masalah langkah kuda catur pada papan 8x8 agar mengunjungi setiap 
 
 ### Cara Penggunaan
 1. Buka file notebook (misal: `Praktikum1.ipynb`).
-2. Jalankan cell `Algoritma Code` dan `visualization Code`.
-3. Pada cell eksekusi (paling bawah), tentukan koordinat awal kuda.
-4. Jalankan cell tersebut untuk melihat hasil.
+2. Masukkan code ke setiap cell.
+3. Jalankan cell `Algoritma Code` dan `visualization Code`.
+4. Pada cell eksekusi (paling bawah), tentukan koordinat awal kuda.
+5. Jalankan cell tersebut untuk melihat hasil.
 
 ### Input
 Variabel pada kode utama:
@@ -33,9 +34,10 @@ Mencari sub-urutan angka menaik terpanjang dengan memodelkan semua kemungkinan l
 
 ### Cara Penggunaan
 1. Buka file notebook (misal: `Praktikum2.ipynb`).
-2. Cari variabel `sequence` di bagian atas kode.
-3. Masukkan deret angka soal ke dalam list tersebut.
-4. Jalankan semua cell.
+2. Masukkan code ke setiap cell.
+3. Cari variabel `sequence` di bagian atas kode.
+4. Masukkan deret angka soal ke dalam list tersebut.
+5. Jalankan semua cell.
 
 ### Input
 - sequence: List berisi deret bilangan bulat.
