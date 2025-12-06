@@ -15,7 +15,7 @@ Menyelesaikan masalah langkah kuda catur pada papan 8x8 agar mengunjungi setiap 
 
 ### Cara Penggunaan
 1. Buka file notebook (misal: `Praktikum1.ipynb`).
-2. Jalankan cell `Algoritma Code` dan `Visualisasi Code`.
+2. Jalankan cell `Algoritma Code` dan `visualization Code`.
 3. Pada cell eksekusi (paling bawah), tentukan koordinat awal kuda.
 4. Jalankan cell tersebut untuk melihat hasil.
 
